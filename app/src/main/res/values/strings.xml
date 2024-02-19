@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="right_side_msg">Right Side Msg</string>
+    <string name="time">Time</string>
+    <string name="left_side_msg">Left Side Msg</string>
+    <string name="msg">Message</string>
+    <string name="send_by">Send By</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+</resources>
