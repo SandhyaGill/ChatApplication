@@ -7,4 +7,6 @@
     <string name="send_by">Send By</string>
     <string name="first">First</string>
     <string name="second">Second</string>
+    <string name="send">Send</string>
+    <string name="enter_text_to_send">Enter text to send</string>
 </resources>
